@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
-            <title>Version 1.0.1</title>
-            <sparkle:version>1.0.1</sparkle:version>
-            <enclosure url="YOUR_DIRECT_GOOGLE_DRIVE_LINK" os="android" />
+            <title>New Update Available - v1.0.2</title>
+            
+            <sparkle:version>1.0.2</sparkle:version>
+            
+            <description>
+                <![CDATA[
+                <ul>
+                  <li>Added <b>Hostel & Room</b> details for items.</li>
+                  <li>New <b>WhatsApp</b> contact button integrated.</li>
+                  <li>Added <b>Product Descriptions</b> (optional).</li>
+                  <li>Admin can now delete items from the Home Page.</li>
+                  <li>Bug fixes and performance improvements.</li>
+                </ul>
+                ]]>
+            </description>
+            
+            <enclosure 
+                url="https://drive.google.com/uc?export=download&id=1ORgUH8-BlIzPEVMmtMbI3pJTxACfxe17" 
+                os="android" />
         </item>
     </channel>
 </rss>
