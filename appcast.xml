@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
-            <title>New Update Available - v1.0.10</title>
+            <title>New Update Available - v1.0.11</title>
             
-            <sparkle:version>1.0.10</sparkle:version>
+            <sparkle:version>1.0.11</sparkle:version>
             
             <description>
                 <![CDATA[
